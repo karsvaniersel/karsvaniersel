@@ -1,4 +1,10 @@
+![Springbok Agency](https://media-exp1.licdn.com/dms/image/C5616AQEQTLqod5mmvA/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=0_kf6K6VJscAYxICAKYEqjQ10CXMx4KeHneDZxv1DSU)
+
 ### Hi there 👋
+
+My name is Kars van Iersel and I'm a **Full Stack Developer** at [Springbok Agency](https://springbokagency.com) in Amsterdam, The Netherlands. My areas of expertise encompass the entire development cycle: from idea generation, idea visualization, creating and setting up architecture, creating a development workflow, UI/UX, and finally programming rich **webapps** and **websites**.
+
+Most of the time I work with [Vue.js](https://vuejs.org/), but the past year I've also been working with creating and maintaining web components using [Stencil.js](https://stenciljs.com/docs/component).
 
 <!--
 **karsvaniersel/karsvaniersel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
